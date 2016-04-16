@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--just for fun-->
+    <array name="hahha">
+        <item>nihao</item>
+        <item>ceshi</item>
+        <item>shuoming</item>
+        <item>now</item>
+        <item>ting</item>
+        <item>hash</item>
+    </array>
+</resources>
